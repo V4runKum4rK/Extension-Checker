@@ -8,7 +8,7 @@ import re
 from bs4 import BeautifulSoup
 
 
-url = "http://10.10.10.93/transfer.aspx" #Edit this with uploading function URL
+url = "http://Target_IP/transfer.aspx" #Edit this with uploading function URL
 filename = "extensions.txt" #This is the file with lot of extensions
 
 def upload(f):
