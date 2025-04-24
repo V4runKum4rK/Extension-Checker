@@ -30,7 +30,7 @@ Clone the repository:
 
 git clone https://github.com/V4runKum4rK/Extension-Checker.git
 cd Extension-Checker
-chmod +x 
+chmod +x checker.py
 
 ⚙️ Usage
 
